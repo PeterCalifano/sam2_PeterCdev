@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../../MachineLearningGears_for_SpaceNav"
+		},
+		{
+			"path": "../../accelerated_features_PeterCdev"
+		},
+		{
+			"path": "../../SuperGluePretrainedNetwork_PeterCdev"
 		}
 	],
 	"settings": {}
